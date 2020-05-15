@@ -1,0 +1,15 @@
+{
+  "name": "mochajstesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Vlad V.",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^7.1.2",
+    "mongoose": "^5.9.14"
+  }
+}
